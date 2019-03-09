@@ -14,7 +14,7 @@ else if (true) {
 }
 function ageChecker(age) {
 else {
-  
+
 }
 }
 
