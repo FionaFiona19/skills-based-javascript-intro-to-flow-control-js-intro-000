@@ -1,4 +1,5 @@
-function basicTeenager(13) {
+function basicTeenager()
+ageChecker(13-19) {
   return("You are a teenager")
   console.log()
 
