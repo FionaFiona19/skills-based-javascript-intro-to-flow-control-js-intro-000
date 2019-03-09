@@ -30,3 +30,4 @@ function basicTeenager(age){
   return 'You are a teenager'
 
 }
+function canGo(lightColor){if(lightColor==='green'){return true} return false} 
